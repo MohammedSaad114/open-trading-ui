@@ -1,5 +1,5 @@
 # Open Trading Ui
-Frontend design concept for a trading terminal. Built as a demo UI for market data, orders, and positions.
+Frontend design concept for a trading terminal. Built as a demo UI for market data, orders, positions and watchlist.
 
 ---
 ## Setup
