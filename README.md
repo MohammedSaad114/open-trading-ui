@@ -2,7 +2,7 @@
 Frontend design concept for a trading terminal. Built as a demo UI for market data, orders, positions and watchlist.
 
 ---
-## Setup
+## ⚙️ Setup
 ### 1. Prerequisite
 
 - Node.js & npm: Ensure Node.js and npm are installed and callable from your terminal.
@@ -15,7 +15,7 @@ npm -v
 
 ---
 
-## ⚙️ Build & Run
+### 2. Build & Run
 (VS Code or Terminal) Navigate to the project root and type:
 ```bash
 npm install
