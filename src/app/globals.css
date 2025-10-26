@@ -1,0 +1,19 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.main-container {
+  @apply min-h-screen grid place-items-center bg-black text-white;
+}
+
+.center-box {
+  @apply text-center;
+}
+
+.title {
+  @apply text-2xl font-semibold;
+}
+
+.subtitle {
+  @apply opacity-70;
+}
